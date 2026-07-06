@@ -1,6 +1,6 @@
 ## 👨‍💻Francisco
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Francisco Leite de Jesus, tenho 18 anos e sou de Betim, Minas Gerais. Concluí o ensino médio na Escola Sesi Maria Madalena Nogueira e atualmente, estou cursando Sistemas de Informação na Puc Minas. Gosto muito de tecnologia e compartilho meus projetos através do meu Linkedin: "[Francisco Leite](https://www.linkedin.com/in/francisco-leite-dj/)".
 
