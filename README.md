@@ -1,8 +1,8 @@
 ## 👨‍💻Francisco
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Back-end`** | **`DotNet`** | **`C#`** |  **`SQL`** 
 
-Me chamo Francisco Leite de Jesus, tenho 18 anos e sou de Betim, Minas Gerais. Concluí o ensino médio na Escola Sesi Maria Madalena Nogueira e atualmente, estou cursando Sistemas de Informação na Puc Minas. Gosto muito de tecnologia e compartilho meus projetos através do meu Linkedin: "[Francisco Leite](https://www.linkedin.com/in/francisco-leite-dj/)".
+Me chamo Francisco Leite de Jesus, tenho 18 anos e sou de Betim, Minas Gerais. Sou desenvolvedor backend em formação e atualmente busco minha primeira oportunidade na área. Gosto muito de tecnologia e compartilho meus projetos através do meu Linkedin: "[Francisco Leite](https://www.linkedin.com/in/francisco-leite-dj/)".
 
 
 
